@@ -53,8 +53,8 @@ I'm a passionate Full Stack Developer dedicated to creating robust, scalable web
 
 ### 📊 GitHub Stats  
 
-![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamzohaibanwar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamzohaibanwar&layout=compact&theme=radical)   
+![Zohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-zohaibanwar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-zohaibanwar&layout=compact&theme=radical)   
 
 ### 🤝 Let's Connect!  
 I'm always eager to collaborate on exciting projects and help bring innovative ideas to life. Whether you're starting from scratch or looking to enhance an existing project, I'm here to help!  
