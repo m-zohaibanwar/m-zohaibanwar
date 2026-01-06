@@ -24,6 +24,7 @@ I'm a passionate Full Stack Developer dedicated to creating robust, scalable web
 #### 🔧 Frameworks & Libraries  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Nest.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) 
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) 
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white) 
