@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer dedicated to creating robust, scalable web
 
 ### 🔥 Featured Projects  
 
-- **AI Prompt Generator:** [aipromptgenerator.online](https://aipromptgenerator.online) 
+- **Portfolio:** [zohaibanwar.dev](https://dev-portfolio-eight-rust.vercel.app/) 
 
 ### 🛠️ Technical Expertise  
 
@@ -64,7 +64,7 @@ I'm always eager to collaborate on exciting projects and help bring innovative i
 📫 **How to Reach Me**:  
 - LinkedIn: [Connect With Me.](https://www.linkedin.com/in/iamzohaibanwar/)  
 - Email: zohaibanwar.dev@gmail.com  
-- Portfolio: Under Development
+- Portfolio: [zohaibanwar.dev](https://dev-portfolio-eight-rust.vercel.app/)
 
 ---  
 ⭐ From [Zohaib](https://github.com/yourgithubusername)  
