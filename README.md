@@ -10,8 +10,8 @@ I'm a passionate Full Stack Developer dedicated to creating robust, scalable web
 
 - **Portfolio:** [zohaibanwar.dev](https://dev-portfolio-eight-rust.vercel.app/) 
 
-<img alt="Zohaib's profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=m-zohaibanwar&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-<img alt="Zohaib's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=m-zohaibanwar&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-zohaibanwar&layout=compact&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=m-zohaibanwar&show_icons=true&theme=transparent"/>
 
 ### 🌐 Languages  
 - 🇬🇧 English (Fluent)  
