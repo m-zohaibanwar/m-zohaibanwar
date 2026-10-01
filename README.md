@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer dedicated to creating robust, scalable web
 - **Portfolio:** [zohaibanwar.dev](https://dev-portfolio-eight-rust.vercel.app/) 
 
 ### 🛠️ Technical Expertise 
-<img alt="DIMFLIX's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=m-zohaibanwar&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<img alt="Zohaib's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=m-zohaibanwar&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 
 ### 🌐 Languages  
 - 🇬🇧 English (Fluent)  
